@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 24 11:38:09 2020
 
-@author: kb424
+@author: Kieran Blacker
 """
 from scipy.special import erf 
 
